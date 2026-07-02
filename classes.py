@@ -1,6 +1,6 @@
-# class myclass:
-#     x=5
-# p1=myclass()
+ class myclass:
+     x=5
+p1=myclass()
 # p2=myclass()
 # p3=myclass()
 # del p1
